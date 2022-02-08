@@ -1,0 +1,8 @@
+{
+  "name": "Bikeologie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "056d25ef"
+}
